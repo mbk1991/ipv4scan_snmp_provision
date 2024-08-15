@@ -1,5 +1,5 @@
 # ip4vscan_snmp_provision
-:
+:네트워크 내 호스트를 스캔하면서 세팅된 SNMP Agent를 찾는 프로그램
 
 ### 주요 기능
 <ol>
@@ -7,6 +7,7 @@
 <li>IPv4 <-> int 변환</li>
 <li>호스트 Ping 확인</li>
 <li>호스트 SNMP Agent여부 확인</li>
+<li>SNMP Agent 장비 중 관리중이지 않은 장비를 데이터베이스에 저장</li>
 </ol>
 
 # Specification
@@ -16,4 +17,11 @@
 </ul>
 
 # Description
+
+##### 호스트 체크 결과 (Ping 및 SNMP Agent 여부 확인)
+![Untitled](https://github.com/user-attachments/assets/55d9c7a6-7524-410c-a557-be05a084ce1d)
+
+
+
+##### 블로그 정리
 https://mabb.tistory.com/608
