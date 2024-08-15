@@ -19,7 +19,7 @@
 # Description
 
 ##### 호스트 체크 결과 (Ping 및 SNMP Agent 여부 확인)
-![Untitled](https://github.com/user-attachments/assets/55d9c7a6-7524-410c-a557-be05a084ce1d)
+![Untitled](https://github.com/user-attachments/assets/1af79f25-3219-4844-813e-c9665f0cbea0)
 
 
 
